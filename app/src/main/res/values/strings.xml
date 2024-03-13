@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">chuvanchung_weather</string>
+    <string name="t1">Tên quốc gia</string>
+    <string name="t2">Tên thành phố</string>
+    <string name="t3">City, State</string>
+    <string name="t4">Nhiệt độ</string>
+    <string name="t5">Trạng thái</string>
+    <string name="t6">Độ ẩm</string>
+    <string name="t7">Mây</string>
+    <string name="t8">Gió</string>
+    <string name="t9">Ngày cập nhật</string>
+    <string name="bnt">OK</string>
+    <string name="bnt2">Các ngày tiếp theo</string>
+</resources>
